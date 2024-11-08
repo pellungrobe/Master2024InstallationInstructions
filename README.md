@@ -2,9 +2,9 @@
 
 Dear Students,
 
-To best prepare for the start of classes and avoid technical issues, we have prepared this email (dense with instructions) to provide you with details on how to install the necessary software before the courses begin.
+To best prepare for the start of classes and avoid technical issues, we have prepared the following guide (dense with instructions) to provide you with details on how to install the necessary software before the courses begin.
 
-This email does NOT contain information regarding software for Windows, namely Sql Management Studio, which you will receive later.
+This guide does NOT contain information regarding software for Windows, namely Sql Management Studio, which you will receive later.
 
 ## ATTENTION: READ ALL INSTRUCTIONS CAREFULLY BEFORE PROCEEDING.
 
@@ -21,9 +21,9 @@ This email does NOT contain information regarding software for Windows, namely S
 
 Gentili studentesse e gentili studenti,
  
-al fine di prepararvi al meglio per l'inizio delle lezioni e non incorrere in problemi tecnici abbiamo preparato questa mail (densa di istruzioni), con lo scopo di fornirvi i dettagli per poter installare i software necessari prima dell'inizio dei corsi.
+al fine di prepararvi al meglio per l'inizio delle lezioni e non incorrere in problemi tecnici abbiamo preparato questa guida (densa di istruzioni), con lo scopo di fornirvi i dettagli per poter installare i software necessari prima dell'inizio dei corsi.
  
-In questa email NON sono presenti informazioni relative al software da far girare su Windows, ovvero Sql Management Studio, che riceverete in seguito.
+In questa guida NON sono presenti informazioni relative al software da far girare su Windows, ovvero Sql Management Studio, che riceverete in seguito.
   
 ## ATTENZIONE: LEGGERE TUTTE LE ISTRUZIONI ATTENTAMENTE PRIMA DI PROSEGUIRE.
 
