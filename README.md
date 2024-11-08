@@ -21,18 +21,11 @@ https://www.jetbrains.com/pycharm/download/
 La versione da installare è la Community (free e open source). Anche qui, state attenti a scegliere l’installer corretto per il vostro sistema operativo.
 
 - **Installazione Environment Master**
-Dopo l'installazione di Anaconda, potrete avviare Anaconda-Navigator che è un'interfaccia grafica per aprire i vari software. Seguendo il video tutorial allegato e dopo aver scaricato il file .yml allegato, utilizzate il file .yml per installare i pacchetti python di cui avrete bisogno. Seguite il tutorial video per indicazioni puntuali. Fate questo solo DOPO aver correttamente installato Anaconda. Il comando da eseguire, e che trovate anche nel video, è:
- 
-conda env create -v -f env_master.yml
- 
+Dopo l'installazione di Anaconda, potrete avviare Anaconda-Navigator che è un'interfaccia grafica per aprire i vari software. Seguendo il video tutorial allegato e dopo aver scaricato il file .yml allegato, utilizzate il file .yml per installare i pacchetti python di cui avrete bisogno. Seguite il tutorial video per indicazioni puntuali. Fate questo solo DOPO aver correttamente installato Anaconda. Il comando da eseguire, e che trovate anche nel video, è: <code>conda env create -v -f env_master.yml</code>
 La fase di installazione potrebbe richiedere un tempo variabile a seconda del vostro computer. Attendete pazientemente. Mentre l'installazione è in corso NON spegnere il PC o disconnettere da rete o corrente.
  
 - **Test Environment Master**
-Dopo la suddetta installazione, per testare l’environment master potete aprire un terminale (terminal su Mac o Windows Terminal su windows) e navigare fino alla cartella dove avete salvato il file test_master.py utilizzando il comando: cd [nome_cartella]. Guardate il video per avere un esempio di tale comando.
-
-Una volta arrivati nella cartella contenente il file, digitate:
-conda activate env_master
-python test_master.py
+Dopo la suddetta installazione, per testare l’environment master potete aprire un terminale (terminal su Mac o Windows Terminal su windows) e navigare fino alla cartella dove avete salvato il file test_master.py utilizzando il comando: cd [nome_cartella]. Guardate il video per avere un esempio di tale comando. Una volta arrivati nella cartella contenente il file, digitate: <code>conda activate env_master</code> premere invio, poi digitare <code>python test_master.py</code>
 Se l’installazione è stata compiuta correttamente, vedrete apparire sul terminale la scritta "Hello World” (ci vorrà qualche minuto).
  
 - **Studio Preliminare Python (questa attività NON è obbligatoria)**
