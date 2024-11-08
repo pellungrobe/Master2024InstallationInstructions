@@ -6,7 +6,7 @@ al fine di prepararvi al meglio per l'inizio delle lezioni e non incorrere in pr
  
 In questa email NON sono presenti informazioni relative al software da far girare su Windows, ovvero Sql Management Studio, che riceverete in seguito.
   
-ATTENZIONE: LEGGERE TUTTE LE ISTRUZIONI ATTENTAMENTE PRIMA DI PROSEGUIRE.
+## ATTENZIONE: LEGGERE TUTTE LE ISTRUZIONI ATTENTAMENTE PRIMA DI PROSEGUIRE.
 
 Installazione ANACONDA
 Anaconda è una piattaforma open-source contenente vari pacchetti e software che utilizzeremo durante il master.
